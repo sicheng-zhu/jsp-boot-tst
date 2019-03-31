@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+target
+*.iml
+.idea
+=======
+.classpath
+.project
+.settings/
+target/
+>>>>>>> 4655450c93849a07600a526911e4814f726c954d
